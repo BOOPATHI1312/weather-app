@@ -43,7 +43,7 @@ function App() {
   return (
     <div
       className="min-h-screen flex flex-col items-center justify-center relative overflow-hidden bg-cover bg-center"
-      style={{ backgroundImage: `url(/background-image.jpg)` }}
+      style={{ backgroundImage: `url(/5860.gif)` }}
     >
       <div className="absolute top-0 left-0 w-full h-full bg-black/40"></div>
       <div className="backdrop-blur-md text-white rounded-lg shadow-lg p-8 max-w-md w-full z-10">
