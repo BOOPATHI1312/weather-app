@@ -1,7 +1,7 @@
 import { useState } from "react";
 import axios from "axios";
 import SearchBar from "./components/SerachBar.jsx";
-import WeatherCard from "./components/weatherCard.jsx";
+import WeatherCard from "./components/WeatherCard.jsx";
 
 function App() {
   const [weather, setWeather] = useState(null);
